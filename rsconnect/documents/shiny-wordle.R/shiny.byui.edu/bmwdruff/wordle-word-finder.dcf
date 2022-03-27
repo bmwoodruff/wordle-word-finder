@@ -1,0 +1,14 @@
+name: wordle-word-finder
+title: wordle-word-finder
+username: bmwdruff
+account: bmwdruff
+server: shiny.byui.edu
+hostUrl: https://shiny.byui.edu/__api__
+appId: 1796
+bundleId: 3680
+url: https://shiny.byui.edu/content/9daefcfd-f2ae-43de-b84c-24911555ad34/
+when: 1648398618.44074
+lastSyncTime: 1648398618.44077
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
